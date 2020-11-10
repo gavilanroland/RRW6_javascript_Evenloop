@@ -240,7 +240,7 @@ var KEY_ENTER = 13,
         food = new Rectangle(80, 80, 10, 10);
     
         // Create walls
-        wall.push(new Rectangle(100, 50, 10, 10));
+        //wall.push(new Rectangle(100, 50, 10, 10));
         //wall.push(new Rectangle(100, 100, 10, 10));
         //wall.push(new Rectangle(200, 50, 10, 10));
         //wall.push(new Rectangle(200, 100, 10, 10));
